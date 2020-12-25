@@ -15,21 +15,21 @@ Home screen contains different kinds of Layouts and Views.
 
 Horizontal RecyclerView
 
-<img src="C:\Users\HIMANSHU\Desktop\pro\Weather\Recycler.png" alt="Recycler" style="zoom:40%;" />
+![Recycler](https://user-images.githubusercontent.com/74159416/103134153-205ee380-46d5-11eb-99dc-024f1f909096.png)
 
 CardView
 
-<img src="C:\Users\HIMANSHU\Desktop\pro\Weather\card.png" alt="card" style="zoom:40%;" />
+![card](https://user-images.githubusercontent.com/74159416/103134160-44bac000-46d5-11eb-8cf9-819eb584d727.png)
 
 #### Settings Screen
 
 It is a PreferenceScreen 
 
-<img src="C:\Users\HIMANSHU\Desktop\pro\Weather\setting Prefrence.jpg" alt="setting Prefrence" style="zoom:25%;" />
+![setting Prefrence](https://user-images.githubusercontent.com/74159416/103134170-59975380-46d5-11eb-9f29-10cd9580911a.jpg)
 
 #### Loading 
 
-
+![Loading Screen](https://user-images.githubusercontent.com/74159416/103134167-569c6300-46d5-11eb-8769-58e757128b42.jpg)
 
 ###### Whole application in action 
 
