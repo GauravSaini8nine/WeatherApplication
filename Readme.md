@@ -12,6 +12,8 @@ Major Libraries used are:
 ### Home Screen
 Home screen contains different kinds of Layouts and Views.
 
+<img src="Images/home Screen.jpg" width=200>
+
 Horizontal RecyclerView
 
 <img src="Images/RecyclweView.jpg" width=500>
