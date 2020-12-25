@@ -14,24 +14,18 @@ Major Libraries used are:
 Home screen contains different kinds of Layouts and Views.
 
 Horizontal RecyclerView
-<img src="image/CardView.jpg" width=500">
-
-![RecyclweView](src="https://user-images.githubusercontent.com/74159416/103134364-b5aea780-46d6-11eb-92bb-efbacacf952d.jpg" width="300")
-
-
+<img src="Images/RecyclweView.jpg" width=500>
 
 CardView
-![CardView](https://user-images.githubusercontent.com/74159416/103134362-b2b3b700-46d6-11eb-919a-4603516a3bd5.jpg)
-
+<img src="Images/CardView.jpg" width=500>
 
 #### Settings Screen
-
 It is a PreferenceScreen 
-![SettingsPrefrence](https://user-images.githubusercontent.com/74159416/103134365-b8a99800-46d6-11eb-95d4-cca277c6ccd4.jpeg)
+<img src="Images/SettingsPrefrence.jpeg" width=300>
 
 #### Loading 
+<img src="Images/LoadingScreen.jpeg" width=300>
 
-![LoadingScreen](https://user-images.githubusercontent.com/74159416/103134366-b9dac500-46d6-11eb-908b-be90abeed3a8.jpeg)
 
 ###### Whole application in action 
 
