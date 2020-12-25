@@ -15,22 +15,24 @@ Home screen contains different kinds of Layouts and Views.
 
 Horizontal RecyclerView
 
-![Recycler](https://user-images.githubusercontent.com/74159416/103134153-205ee380-46d5-11eb-99dc-024f1f909096.png)
+
+![RecyclweView](https://user-images.githubusercontent.com/74159416/103134364-b5aea780-46d6-11eb-92bb-efbacacf952d.jpg)
+
+
 
 CardView
+![CardView](https://user-images.githubusercontent.com/74159416/103134362-b2b3b700-46d6-11eb-919a-4603516a3bd5.jpg)
 
-![card](https://user-images.githubusercontent.com/74159416/103134160-44bac000-46d5-11eb-8cf9-819eb584d727.png)
 
 #### Settings Screen
 
 It is a PreferenceScreen 
-
-![setting Prefrence](https://user-images.githubusercontent.com/74159416/103134170-59975380-46d5-11eb-9f29-10cd9580911a.jpg)
+![SettingsPrefrence](https://user-images.githubusercontent.com/74159416/103134365-b8a99800-46d6-11eb-95d4-cca277c6ccd4.jpeg)
 
 #### Loading 
 
-![Loading Screen](https://user-images.githubusercontent.com/74159416/103134167-569c6300-46d5-11eb-8769-58e757128b42.jpg)
+![LoadingScreen](https://user-images.githubusercontent.com/74159416/103134366-b9dac500-46d6-11eb-908b-be90abeed3a8.jpeg)
 
 ###### Whole application in action 
 
-<video src="C:\Users\HIMANSHU\Desktop\pro\Weather\weather.mp4"></video>
+https://user-images.githubusercontent.com/74159416/103134200-9bc09500-46d5-11eb-925c-faeb130bedf1.mp4
