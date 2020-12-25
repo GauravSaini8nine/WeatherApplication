@@ -14,7 +14,7 @@ Major Libraries used are:
 Home screen contains different kinds of Layouts and Views.
 
 Horizontal RecyclerView
-
+<img src="image/CardView.jpg" width=500"
 
 ![RecyclweView](src="https://user-images.githubusercontent.com/74159416/103134364-b5aea780-46d6-11eb-92bb-efbacacf952d.jpg" width="300")
 
